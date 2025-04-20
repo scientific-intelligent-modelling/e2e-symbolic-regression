@@ -6,3 +6,5 @@
 notebooks/*
 *.pyc
 model.pt
+model1
+model1.pt
